@@ -1,0 +1,3 @@
+1|Jon Smith|32 street|pittsburgh|PA|15237|SP.PayWithCreditCard|1111 2222 3333 4444|9|2005|SP.DslService|Dsl|Dsl Service|3000.0|29.99
+2|Adam Evans|45 Avenue|McCandless|PA|15202|SP.PayWithCheckingAccount|Happy Bank|0123456789|SP.WebHostingService|Web Hosting|Hosting customer web pages|60.0|0.01|30000.0|32400.0|50000.0
+3|Jen McCoy|53 Drive|Oakland|PA|15086|BillToAddress|SP.DialUpService|Dial Up|Dial Up Service|14.95|SP.PayWithCheckingAccount|Happy Bank|0123454321|DslService|Dsl|Dsl Service|2000.0|24.99
